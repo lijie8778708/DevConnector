@@ -1,4 +1,4 @@
-# profile dashboard 1.0
+# Career Connector 1.0
 
 > Social network for developers
 
