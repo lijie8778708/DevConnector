@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://lijie8778708:lijie00@cluster0-0ffrt.mongodb.net/devconnect",
+  "jwtToken": "secretToken",
+  "client_Id": "07dcf9710b51a9b1c0e4",
+  "client_secret": "c114f4b376d012a33b488a15576a0c6263774f0e"
+}
